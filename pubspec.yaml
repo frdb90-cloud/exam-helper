@@ -1,0 +1,30 @@
+name: exam_helper
+description: ط¯ط³طھغŒط§ط± ط§ظ…طھط­ط§ظ† - ط§ط³ع©ظ† ط³ظˆط§ظ„ط§طھ ظˆ ظ¾ط§ط³ط® ط¨ط§ ظ‡ظˆط´ ظ…طµظ†ظˆط¹غŒ
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pdfx: ^2.6.0
+  camera: ^0.11.0+1
+  google_mlkit_text_recognition: ^0.13.0
+  file_picker: ^8.0.0
+  path_provider: ^2.1.2
+  http: ^1.2.1
+  shared_preferences: ^2.2.2
+  permission_handler: ^11.3.0
+  image: ^4.1.7
+  intl: ^0.19.0
+  uuid: ^4.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
